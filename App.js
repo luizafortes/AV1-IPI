@@ -46,7 +46,7 @@ class DetailsScreen extends React.Component {
         </Text>
         <Text style={{fontSize:20}}>
           
-           Coloque o link aqui   
+           https://github.com/luizafortes/AV1-IPI   
               
         </Text>
         <Button
